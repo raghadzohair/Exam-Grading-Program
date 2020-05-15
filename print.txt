@@ -1,0 +1,95 @@
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+ - Course: CPCS202   - Course: CPCS203   - Course: CPCS204   - Course: CPCS353  
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+***Exam Type Record For Exam Grading System***
+
+ - Exam Type: Exam1  - Exam Type: Exam2  - Exam Type: FinalExam  - Exam Type: LabExams  - Exam Type: Assignments  - Exam Type: Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+ - Name: Fatima  - Name: Laila  - Name: Maryam  - Name: Khalida  - Name: Zayneb 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+ - Name: Waleed  - Name: Rashid  - Name: Hassan 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+ - Name: Shahid  - Name: Yusuf  - Name: Rami  - Name: Sohail 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+ - Name: Hina  - Name: Reem  - Name: Mona 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT_RESULT
+***Students Winner Record For Exam Grading System***
+
+-- (Students Total Marks)  Result For Course CPCS202  --
+Fatima 91,
+Laila 84,
+Maryam 75,
+Khalida 70,
+Zayneb 64,
+
+Topper in the course is  :  FATIMA  with Marks 91 / 100 
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT_RESULT
+***Students Winner Record For Exam Grading System***
+
+-- (Students Total Marks)  Result For Course CPCS203  --
+Waleed 87,
+Rashid 94,
+Hassan 72,
+
+Topper in the course is  :  RASHID  with Marks 94 / 100 
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT_RESULT
+***Students Winner Record For Exam Grading System***
+
+-- (Students Total Marks)  Result For Course CPCS204  --
+Shahid 95,
+Yusuf 92,
+Rami 92,
+Sohail 88,
+
+Topper in the course is  :  SHAHID  with Marks 95 / 100 
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT_RESULT
+***Students Winner Record For Exam Grading System***
+
+-- (Students Total Marks)  Result For Course CPCS353  --
+Hina 75,
+Reem 90,
+Mona 87,
+
+Topper in the course is  :  REEM  with Marks 90 / 100 
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT_RESULT_FOR_ALL
+***High Marks gainer from all courses For Exam Grading System***
+
+Shahid is The Highest marks gainer in all Courses from  :  CPCS204  with Marks 95 / 100
+-------------------------------------------------------------------------------------------------------
+
+
+Thank you for using Exam Grading System, Good Bye!
